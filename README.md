@@ -1,9 +1,17 @@
 # DevConnector
 
 A social media for developers created from scratch using a MongoDB backend, React-Redux frontend, and Express and Node.
-The Node.js backend was tested using Postman.
+The Node.js backend was tested using Postman and the packages used are uuid, react-redux, react, react-redux-dom, express, .
 
 ## Changelog
+
+2021/05/14: React User Authentication
+
+2021/05/12: Redux Setup & Alerts
+
+2021/05/08: React and Frontend Initial Commit
+
+2021/05/02: Post API Routes
 
 2021/04/29: Profile routes finished
 
@@ -15,5 +23,7 @@ The Node.js backend was tested using Postman.
 
 ## To Do
 
-- React front end
-- Finish adding routes
+- Dashboard & Profile Management
+- Profile Display
+- Posts & Comments
+- Prepare & Deploy
